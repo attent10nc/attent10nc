@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/kaneki.svg" alt="attent10nc" width="100%">
+  <img src="assets/blood.svg" alt="attent10nc" width="100%">
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
         <img src="https://img.shields.io/badge/React-070707?style=flat-square&logo=react&logoColor=d10a1e" alt="React">
         <img src="https://img.shields.io/badge/aiogram-070707?style=flat-square&logo=telegram&logoColor=d10a1e" alt="aiogram">
       </p>
-      <i>приватный</i>
+      <a href="https://t.me/trakertuk_bot"><b>→ @trakertuk_bot</b></a>
     </td>
     <td width="33%" valign="top">
       <h3>ThreatRadar</h3>
