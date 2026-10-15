@@ -27,7 +27,7 @@
 </a>
 
 <p>
-  <a href="https://github.com/attent10nc/YMusicMod/releases/latest"><img src="https://img.shields.io/github/v/release/attent10nc/YMusicMod?style=for-the-badge&color=ff2f7a&labelColor=1a0d10&label=релиз" alt="release"></a>
+  <a href="https://github.com/attent10nc/YMusicMod/releases/latest"><img src="https://img.shields.io/github/v/release/attent10nc/YMusicMod?style=for-the-badge&color=ff2f7a&labelColor=1a0d10&label=%D1%80%D0%B5%D0%BB%D0%B8%D0%B7" alt="release"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-a14dff?style=for-the-badge&labelColor=1a0d10&logo=windows11&logoColor=white" alt="windows">
   <img src="https://img.shields.io/badge/Electron-asar%20patch-ff5a4e?style=for-the-badge&labelColor=1a0d10&logo=electron&logoColor=white" alt="electron">
 </p>
