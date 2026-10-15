@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/blood.svg" alt="attent10nc" width="100%">
+  <img src="assets/plate.svg" alt="attent10nc" width="100%">
 </p>
 
 <p align="center">

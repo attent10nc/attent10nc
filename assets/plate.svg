@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <rect width="1200" height="260" rx="18" fill="#c8081c"/>
+  <g font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+    <text x="70" y="140" font-size="84" font-weight="900" letter-spacing="-3" fill="#ffffff">attent<tspan fill="#070707">10</tspan>nc</text>
+    <rect x="72" y="164" width="120" height="5" fill="#070707"/>
+    <text x="72" y="210" font-size="22" font-weight="700" letter-spacing="6" fill="#ffffff">БОТЫ · МОДЫ · ИГРЫ</text>
+  </g>
+</svg>
