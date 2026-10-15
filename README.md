@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/header.svg" alt="attent10nc" width="100%">
+  <img src="assets/kaneki.svg" alt="attent10nc" width="100%">
 </p>
 
 <p align="center">
   <a href="https://attent10nc.github.io/YMusicMod/"><img src="https://img.shields.io/badge/SITE-attent10nc.github.io-d10a1e?style=for-the-badge&labelColor=070707" alt="site"></a>
-  <img src="https://komarev.com/ghpvc/?username=attent10nc&style=for-the-badge&color=d10a1e&labelColor=070707&label=PROFILE%20VIEWS" alt="views">
+  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fattent10nc&label=PROFILE%20VIEWS&labelColor=%23070707&countColor=%23d10a1e&style=for-the-badge&labelStyle=upper" alt="views">
 </p>
 
 <img src="assets/flagship.svg" alt="Флагман" width="100%">
