@@ -25,19 +25,6 @@
 
 <img src="assets/projects.svg" alt="Проекты" width="100%">
 
-<a href="https://github.com/attent10nc/security-tool">
-  <img src="https://raw.githubusercontent.com/attent10nc/security-tool/main/docs/preview.gif" alt="security tool" width="100%">
-</a>
-
-<p>
-  <img src="https://img.shields.io/badge/PYTHON-3.12-f4f4f4?style=for-the-badge&labelColor=0a0a0a&logo=python&logoColor=white" alt="python">
-  <img src="https://img.shields.io/badge/WINDOWS%20%C2%B7%20LINUX%20%C2%B7%20MACOS-f4f4f4?style=for-the-badge&labelColor=0a0a0a" alt="platforms">
-</p>
-
-**security tool**: приватность и анонимность в одной консоли. 66 проверок утечек (IP за VPN, DNS, IPv6, WebRTC, kill switch), твики с откатом, очистка следов, кто в сети, фото без метаданных.
-
-[**Репозиторий**](https://github.com/attent10nc/security-tool)
-
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -51,23 +38,25 @@
       <a href="https://t.me/trakertuk_bot"><b>→ @trakertuk_bot</b></a>
     </td>
     <td width="33%" valign="top">
-      <h3>ThreatRadar</h3>
-      <p>Мониторинг сетевых угроз и дашборд с картой сети.</p>
+      <h3>YMusicMod</h3>
+      <p>Мод Яндекс Музыки для Windows: видео-обои, визуализатор, мини-плеер поверх игр, статус в Discord.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Scapy-0a0a0a?style=flat-square" alt="Scapy">
-        <img src="https://img.shields.io/badge/Flask-0a0a0a?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+        <img src="https://img.shields.io/badge/Electron-0a0a0a?style=flat-square&logo=electron&logoColor=white" alt="Electron">
+        <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+        <img src="https://img.shields.io/badge/Windows-0a0a0a?style=flat-square&logo=windows11&logoColor=white" alt="Windows">
       </p>
-      <a href="https://github.com/attent10nc/ThreatRadar"><b>→ репозиторий</b></a>
+      <a href="https://github.com/attent10nc/YMusicMod"><b>→ репозиторий</b></a>
     </td>
     <td width="33%" valign="top">
-      <h3>Network Audit Tool</h3>
-      <p>Обёртка над Nmap: шесть режимов сканирования и отчёты.</p>
+      <h3>security tool</h3>
+      <a href="https://github.com/attent10nc/security-tool"><img src="https://raw.githubusercontent.com/attent10nc/security-tool/main/docs/eye.gif" alt="security tool" width="100%"></a>
+      <p>Приватность и анонимность в консоли: 66 проверок утечек, твики с откатом, очистка следов.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Nmap-0a0a0a?style=flat-square" alt="Nmap">
+        <img src="https://img.shields.io/badge/PowerShell-0a0a0a?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
+        <img src="https://img.shields.io/badge/Linux%20%C2%B7%20macOS-0a0a0a?style=flat-square&logo=linux&logoColor=white" alt="Linux, macOS">
       </p>
-      <a href="https://github.com/attent10nc/network-audit-tool"><b>→ репозиторий</b></a>
+      <a href="https://github.com/attent10nc/security-tool"><b>→ репозиторий</b></a>
     </td>
   </tr>
 </table>
