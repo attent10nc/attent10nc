@@ -25,6 +25,19 @@
 
 <img src="assets/projects.svg" alt="Проекты" width="100%">
 
+<a href="https://github.com/attent10nc/security-tool">
+  <img src="https://raw.githubusercontent.com/attent10nc/security-tool/main/docs/preview.gif" alt="security tool" width="100%">
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-3.12-f4f4f4?style=for-the-badge&labelColor=0a0a0a&logo=python&logoColor=white" alt="python">
+  <img src="https://img.shields.io/badge/WINDOWS%20%C2%B7%20LINUX%20%C2%B7%20MACOS-f4f4f4?style=for-the-badge&labelColor=0a0a0a" alt="platforms">
+</p>
+
+**security tool**: приватность и анонимность в одной консоли. 66 проверок утечек (IP за VPN, DNS, IPv6, WebRTC, kill switch), твики с откатом, очистка следов, кто в сети, фото без метаданных.
+
+[**Репозиторий**](https://github.com/attent10nc/security-tool)
+
 <table>
   <tr>
     <td width="33%" valign="top">
