@@ -21,8 +21,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/label-stack-dark.svg">
-  <img src="assets/label-stack-light.svg" alt="Стек" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-stack-dark.svg">
+  <img src="assets/section-stack-light.svg" alt="Стек" width="100%">
 </picture>
 
 <picture>
