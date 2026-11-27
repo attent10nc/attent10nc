@@ -1,22 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/nick-dark.svg">
-  <img src="assets/nick-light.svg" alt="attent10nc" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.svg">
+  <img src="assets/wordmark-light.svg" alt="attent10nc" width="100%">
 </picture>
 
-<p>
-  <a href="https://github.com/attent10nc/YMusicMod"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/tile-ymusicmod-dark.svg">
-    <img src="assets/tile-ymusicmod-light.svg" alt="YMusicMod" width="32.6%">
-  </picture></a>
-  <a href="https://github.com/attent10nc/security-tool"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/tile-security-dark.svg">
-    <img src="assets/tile-security-light.svg" alt="security tool" width="32.6%">
-  </picture></a>
-  <a href="https://t.me/trakertuk_bot"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/tile-tracker-dark.svg">
-    <img src="assets/tile-tracker-light.svg" alt="Tukowka Tracker" width="32.6%">
-  </picture></a>
-</p>
+<p><a href="https://github.com/attent10nc/YMusicMod"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ymusicmod-dark.svg"><img src="assets/project-ymusicmod-light.svg" alt="YMusicMod" width="33.3%"></picture></a><a href="https://github.com/attent10nc/security-tool"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-security-dark.svg"><img src="assets/project-security-light.svg" alt="security tool" width="33.3%"></picture></a><a href="https://t.me/trakertuk_bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tracker-dark.svg"><img src="assets/project-tracker-light.svg" alt="Tukowka Tracker" width="33.3%"></picture></a></p>
 
 <br>
 
